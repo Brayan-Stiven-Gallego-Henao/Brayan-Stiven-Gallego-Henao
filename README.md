@@ -35,7 +35,7 @@ Soy un apasionado por la tecnología y el fitness, enfocado en aprender cada dí
 
 ### 📫 Conéctate conmigo
 <p align="left">
-  <a href="https://www.tiktok.com/@tu_usuario_de_tiktok" target="_blank">
+  <a href="https://www.tiktok.com/@mr.bsgh" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
